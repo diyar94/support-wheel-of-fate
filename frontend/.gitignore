@@ -5,3 +5,11 @@ node_modules/
 .idea/
 
 
+#env
+config.env
+
+#yarn clean
+.yarnclean
+
+# misc
+yarn-error.log*
