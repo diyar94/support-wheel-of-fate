@@ -7,3 +7,7 @@ frontend/yarn-error.log*
 
 ##
 .idea
+
+
+## env files
+config.env
