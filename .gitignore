@@ -3,7 +3,7 @@ node_modules/
 
 ## logs
 
-yarn-error.log*
+frontend/yarn-error.log*
 
 ##
 .idea
